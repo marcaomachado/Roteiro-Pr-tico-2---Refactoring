@@ -43,6 +43,5 @@ public class Rental {
         else
             return 1;
     }
-
-
+    
 }
